@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"table"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"new",
+				"newsworks"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"mix",
+				"mixin	@mixin"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"min",
+				"mixin	@mixin"
+			],
+			[
+				"liss",
+				"list-style"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"about",
+				"about-content"
+			],
+			[
+				"d",
+				"droparea"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"sp",
+				"sp-onlu"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"main",
+				"main-l-ul"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"main-",
+				"main-l"
+			],
+			[
+				"main-l",
+				"main-l-ul"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"page-",
+				"page-content"
+			],
+			[
+				"post",
+				"post-description"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"next",
+				"next-page-right"
+			],
+			[
+				"page",
+				"page-middle-img"
+			],
+			[
+				"post-",
+				"post-socialbotan"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"aside",
+				"aside-text"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"footer",
+				"footer-title"
+			],
+			[
+				"la",
+				"label-work"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"se",
+				"search-field"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"sl",
+				"solid"
+			],
+			[
+				"prev",
+				"previous_post_link"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"social",
+				"page-social-button"
+			],
+			[
+				"rele",
+				"release-post-right"
+			],
+			[
+				"profile",
+				"profile-content-list"
+			],
+			[
+				"footer-",
+				"footer-box"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"20px",
+				"20px"
+			],
+			[
+				"next-page-ri",
+				"next-page-right-name"
+			],
+			[
+				"next-page-le",
+				"next-page-left-right"
+			],
+			[
+				"ne",
+				"next-page-left-name"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"about-",
+				"about-content-description"
+			],
+			[
+				"form",
+				"form-submit"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"abo",
+				"about-content-title"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"pro",
+				"profile-content-link"
+			],
+			[
+				"i",
+				"inside"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fi",
+				"first-more-link"
+			],
+			[
+				"canvas",
+				"canvas"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"wave",
+				"wave"
+			],
+			[
+				"wavebox",
+				"wavebox"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"b-c",
+				"border-color"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"paddig",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"zo",
+				"zo2"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"　",
+				"　Twitter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 104.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/scss/style.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/contact.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/page-contact.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/page-about.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/page-about.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/index.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/page-blog.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/page-clients.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/single-newsworks.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/taxonomy.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/singlepart-related-n.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/singlepart-related.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/single.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/single.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/category.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/meta-social.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/tag.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/sidebar.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/singlepart-nextpre.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/nav.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/archive-newsworks.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/recent-pc.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/archive-release.php",
+		"/Users/orangeplusme/Dropbox/03_html/18_doggypaddle/160313/html/tdp.html",
+		"/Users/orangeplusme/Dropbox/03_html/18_doggypaddle/160313/html/css/tdp.css",
+		"/Users/orangeplusme/Dropbox/03_html/18_doggypaddle/html/tdp.html",
+		"/Users/orangeplusme/Dropbox/03_html/18_doggypaddle/html/css/tdp.css",
+		"/Users/orangeplusme/Dropbox/03_html/160313_kennseiogata.html",
+		"/Users/orangeplusme/Dropbox/03_html/17_twitter_bot/twitter_bot.php",
+		"/Users/orangeplusme/Dropbox/03_html/17_twitter_bot/twitteroauth/src/TwitterOAuth.php",
+		"/Users/orangeplusme/Dropbox/03_html/17_twitter_bot/config.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/header.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/index.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/03_image/02_記事素材/060223/ip.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/archive.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/orange plus music_old/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/style.css",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/meta-social.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/160116_php（アップロード後）/orange plus music/nav.php",
+		"/Users/orangeplusme/Dropbox/151115_サンプルhtml/jquery.bxslider/jquery.bxslider.css",
+		"/Users/orangeplusme/Dropbox/151115_サンプルhtml/index.html",
+		"/Users/orangeplusme/Dropbox/151115_サンプルhtml/css/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/scss/syyle.scss",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/css/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/Gerbera Music Agency/config.rb",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/150805_orange plus music/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/gerberamusicegency/style.css",
+		"/Users/orangeplusme/Dropbox/03_html/12_omotenashi/omotenashi.html",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/160103/index.html",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/150805_php（アップロード後）/orange plus music/style.css",
+		"/Users/orangeplusme/Downloads/stackicons-master 3/css/stackicons-social.min.css",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/160103/image/160104.html",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/160103/image/stackicons-social.css",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/151227/image/slidebars.css",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/151227/image/160103.html",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/150805_php（アップロード後）/orange plus music/meta-social.php",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/150805_php（アップロード後）/orange plus music/header.php",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/150813/nao-sakaguchi.com/footer.php",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/151229.html",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/150813/nao-sakaguchi.com/style.css",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/150813/nao-sakaguchi.com/header.php",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/150813/nao-sakaguchi.com/css/slidebars.css",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/150813/nao-sakaguchi.com/js/slidebars.js",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/150813/nao-sakaguchi.com/nav.php",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/150813/nao-sakaguchi.com/index.php",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/151227.html",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/css/xmas.css",
+		"/Users/orangeplusme/Dropbox/03_html/04_haruna_web/01_html/1505020/nao-sakaguchi.com/style.css",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/151226.html",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/xmas.html",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/js/snow.js",
+		"/Users/orangeplusme/Dropbox/03_html/01_orange plus music/02_html/01_now/150805_php（アップロード後）/orange plus music/functions.php",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/js/script.js",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/js/raphael-min.js",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/js/illust.js",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/151205/index.html",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/151205/tumblr.html",
+		"/Users/orangeplusme/Downloads/stackicons-master 2/css/stackicons-social.css",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/image/stackicons-social.css",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/index.html",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/css/style.css",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/old/style.css",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/old/index.html",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/js/sonw.js",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/index.html",
+		"/Users/orangeplusme/Dropbox/03_html/15_xmas party/title.svg",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151113-2/css/sanopan.css",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151113-2/sanopan.html",
+		"/Users/orangeplusme/Dropbox/03_html/14_kenseiogata/Kensei Ogata 写真素材/index.html",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/03_サンプルをいじる用/css/style.css",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/03_サンプルをいじる用/index.html",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/01_目標html/index.html",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/01_目標html/css/style.css",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/02_サンプルhtml/css/style.css",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/02_サンプルhtml/index.html",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/css/style.css",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/index.html",
+		"/Users/orangeplusme/Dropbox/03_html/10_KAMIKOUCHI/css/mein.css",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/kamikouchi.html",
+		"/Users/orangeplusme/Dropbox/151114_web制作をはじめよう vol.1/css/mein.css",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151113/css/sanopan.css",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151113/sanopan.html",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151113/css/down.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151113/css/up.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151112/css/sanopan.css",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151112/css/down.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151112/sanopan.html",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151112/css/up.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/old/151111/css/up.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151110/css/up.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151110/css/down.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151110/css/sanopan.css",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151110/sanopan.html",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151111/sanopan.html",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151109/sanopan.html",
+		"/Users/orangeplusme/Dropbox/03_html/10_KAMIKOUCHI/kamikouchi.html",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151109/css/sanopan.css",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151109/css/down.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151109/css/up.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151109-2/css/up.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151109-2/css/down.js",
+		"/Users/orangeplusme/Dropbox/03_html/13_sanopan/151109-2/sanopan.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<a href=\"<?php echo get_permalink( $prev_post->ID ); ?>\">\n										<?php $prev_title = esc_attr( mb_substr( $prev_post->post_title, 0, 30 ) );\n										$prev_attr = array('class' => 'thumbnail','alt' => '','title' => '');\n										$prev_thumbnail = get_the_post_thumbnail( $prev_post->ID, 'thumbnail', $prev_attr );\n										if( $prev_thumbnail ){echo $prev_thumbnail;\n										}else{echo '<img src=\"' . get_stylesheet_directory_uri() . '/images/prev_post.png\" width=\"120\" height=\"120\" alt=\"\" title=\"\">';} ?>\n									</a>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"32",
+			"470",
+			"$cat",
+			"categories",
+			"--->",
+			"sakaguchinao",
+			"$post-midasi",
+			"$menu-bot",
+			"breadcrumb",
+			"brend",
+			"bttn",
+			"$showitems",
+			"pagenation",
+			"$range",
+			"$the_query_recent1",
+			"$args_recent_a",
+			"$args_recent1",
+			"loopcounter2",
+			"class=\"post",
+			"post",
+			"http://alcott-kobe.jp/",
+			"1000px",
+			"box72",
+			"90px",
+			"05_blog3.png",
+			"02_live1.png",
+			"02_live1",
+			"JPG",
+			"[",
+			"$response = []",
+			"$response = [];",
+			"$parameters = []",
+			"[]",
+			"array $parameters = []",
+			"\"",
+			"page-iine-p2",
+			"true",
+			"520",
+			"420",
+			"newsworksの",
+			"タグ",
+			"カテ",
+			"製品の",
+			"products",
+			"news",
+			"NEWS",
+			"news",
+			"release",
+			"RELEASE",
+			"release",
+			"RELEASE",
+			"release",
+			"RELEASE",
+			"release",
+			"%\"",
+			"h2",
+			"rgba",
+			"rgba(250, 250, 0, 0.8)",
+			"11.25",
+			"rgba",
+			"hoja",
+			"greyc",
+			"<li>",
+			"page-iine-p2",
+			"page-iine",
+			"text-dec",
+			"page-iine-p",
+			"<li>",
+			"line-m",
+			"line",
+			"5% 30px",
+			"5%",
+			"sb-toggle-right",
+			"height",
+			"min-height",
+			"min-",
+			"sb-site",
+			"#sb-site",
+			"hover",
+			"\"",
+			"1400",
+			"fonts/",
+			"sin",
+			"class",
+			"color-i",
+			"class",
+			"<li><",
+			"<img src=\"\" width=\"30\"/>",
+			"./image",
+			"href",
+			"</a>",
+			"135",
+			"top-pa",
+			"png",
+			"img",
+			"div",
+			".image",
+			"href",
+			":",
+			";",
+			"class='y",
+			"item",
+			"<div",
+			"itemout",
+			"2.3s",
+			"2.4s",
+			"2.9s",
+			"2.7s",
+			"2.3s",
+			"2.4s",
+			"0.1",
+			"2.9s",
+			"2.7s",
+			"2.5s",
+			"1000px",
+			"2000px",
+			"1000",
+			"px",
+			"#sakura ",
+			"<li>",
+			" class=\"head-right-li\"",
+			"<li",
+			" class=\"center\"",
+			"1930",
+			"kita",
+			"北村",
+			"1880",
+			"main-l-ul"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"next",
+			"aside",
+			"footer",
+			"header"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 82.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
